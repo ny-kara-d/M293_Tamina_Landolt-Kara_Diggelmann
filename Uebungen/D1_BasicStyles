@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
+    <style>
+        body {
+            border: 20px solid #ff06b5;
+            background-color: #e0e0e0;
+            padding: 20px;
+        }
+        div {
+            border: 5px solid green;
+            background-color: red;
+            padding: 9px;
+        }
+    </style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    <div></div>
+<body>    
+    <div>
+
+    </div>
 </body>
 
 </html>
