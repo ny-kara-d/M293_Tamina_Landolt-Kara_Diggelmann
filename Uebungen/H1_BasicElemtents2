@@ -1,55 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <h1>Polenta Pizza mit Zucchini</h1>
-    </head>
-    <body>
-        <h2>Schritt 1</h2>
-        <p>
-            <li>Zucchini 200 g</li>
-            <li>rote Zwiebel 1</li> 
-            <li>Zucchini längs halbieren, in ca. 8 mm dicke Scheiben schneiden.</li> 
-            <li>Zwiebel schälen, in Schnitze schneiden.</li>
-        </p>
-        <p>
 
-                          
-                           
+<head>
+    <h1>Polenta Pizza mit Zucchini</h1>
+</head>
+
+<body>
+
+    <p>
+    <h3>Schritt 1</h3>
+    <li>Zucchini 200 g</li>
+    <li>rote Zwiebel 1</li>
+    <li>Zucchini längs halbieren, in ca. 8 mm dicke Scheiben schneiden.</li>
+    <li>Zwiebel schälen, in Schnitze schneiden.</li>
+    </p>
+    <p>
+    <h3>Schritt 2</h3>
+    <li>Olivenöl 0.5 EL</li>
+    <li>Salz 0.25 TL</li>
+    <p>Öl in einem beschichteten Wok oder einer weiten beschichteten Bratpfanne heiss werden lassen. <br>
+        Zucchini und Zwiebel ca. 10 Min. rührbraten, salzen. <br>
+        Herausnehmen, beiseite stellen.</p>
+    </p>
 
 
-            
-        </p>
-       
-Olivenöl
-0.5 EL
-Salz
-0.25 TL
-Öl in einem beschichteten Wok oder einer weiten beschichteten Bratpfanne heiss werden lassen. Zucchini und Zwiebel ca. 10 Min. rührbraten, salzen. Herausnehmen, beiseite stellen.
+    <p>
+        <h3>Schritt 3</h3>
+        <li>Gemüsebouillon 3.75 dl</li>
+        <li>feiner Maisgriess (2 Min.) 100 g</li>
+        <li>getrockneter Oregano 1 TL</li>
+        <li>Olivenöl 1 EL</li>
+    <p>Bouillon in derselben Pfanne aufkochen.
+        Maisgriess und Oregano einrühren, Hitze reduzieren, zugedeckt bei kleiner Hitze ca. 4 Min. quellen lassen.
+        Polenta gut durchrühren, zu einem flachen Kuchen formen.
+        Hitze erhöhen. Öl dem Pfannenrand entlang träufeln, unter Hin-und-her-Bewegen der Pfanne das Öl gut verteilen.
+        Polenta ca. 3 Min. braten, dabei Pfanne hin- und herbewegen, damit sich der Polentaboden gut löst.
+    </p>
+    </p>
 
-Gemüsebouillon
-3.75 dl
-feiner Maisgriess (2 Min.)
-100 g
-getrockneter Oregano
-1 TL
-Olivenöl
-1 EL
-Bouillon in derselben Pfanne aufkochen. Maisgriess und Oregano einrühren, Hitze reduzieren, zugedeckt bei kleiner Hitze ca. 4 Min. quellen lassen. Polenta gut durchrühren, zu einem flachen Kuchen formen. Hitze erhöhen. Öl dem Pfannenrand entlang träufeln, unter Hin-und-her-Bewegen der Pfanne das Öl gut verteilen. Polenta ca. 3 Min. braten, dabei Pfanne hin- und herbewegen, damit sich der Polentaboden gut löst.
+    <p>
+        <h3>Schritt 4</h3>
+        <li>Tomate (ca. 100 g) 1</li>
+        <li>Tomatenpüree 1 EL</li>
+        <li>Salz 0.25 TL</li>
+        <li>Pfeffer wenig</li>
+        <li>geriebener Gruyère 70 g</li>
+        <li>getrockneter Oregano 0.5 TL</li>
+    <p>Tomate in Würfeli schneiden, mit dem Tomatenpüree mischen, würzen, auf der Polenta verteilen.
+        2/3 des Käses mit den beiseite gestellten Zucchini darauf verteilen.
+        Restlichen Käse darüberstreuen, zugedeckt ca. 5 Min. fertig braten.
+        Polenta-Pizza auf einen Teller gleiten lassen, Oregano darüberstreuen.
+    </p>
+    </p>
+</body>
 
-Tomate (ca. 100 g)
-1 
-Tomatenpüree
-1 EL
-Salz
-0.25 TL
-Pfeffer
-wenig 
-geriebener Gruyère
-70 g
-getrockneter Oregano
-0.5 TL
-Tomate in Würfeli schneiden, mit dem Tomatenpüree mischen, würzen, auf der Polenta verteilen. 2/3 des Käses mit den beiseite gestellten Zucchini darauf verteilen. Restlichen Käse darüberstreuen, zugedeckt ca. 5 Min. fertig braten. Polenta-Pizza auf einen Teller gleiten lassen, Oregano darüberstreuen.
-    </body>
 </html>
 
 <!-- Quelle Rezept: https://www.bettybossi.ch/de/rezepte/rezept/polenta-pizza-mit-zucchini-10009969/  -->
