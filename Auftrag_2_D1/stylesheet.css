@@ -1,0 +1,20 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    font:Open Sans Extra-bold 800; 
+    font-size:50px; 
+    color:magenta; 
+    text-align:center; 
+    margin-top:25px;
+}
+
+ol {
+    font:Open Sans Extra-bold 800; 
+    font-size:45px; 
+    color:darkmagenta; 
+    list-style-position:inside; 
+    text-align:center;      
+    margin-top: 30px;
+}

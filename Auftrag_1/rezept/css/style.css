@@ -5,3 +5,14 @@
 4. Abstände mit margin und padding
 5. styleguides einsetzen, seiten sollen unterschiedlich aussehen */
 
+h1 {
+    font-size: large;
+    color: midnightblue;
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;
+    color: blue;
+    text-align: center;
+}
