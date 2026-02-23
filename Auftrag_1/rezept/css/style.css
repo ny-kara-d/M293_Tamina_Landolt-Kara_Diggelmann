@@ -28,3 +28,9 @@ nav {
     margin: 15px;
     margin-right: 35%;
 }
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
