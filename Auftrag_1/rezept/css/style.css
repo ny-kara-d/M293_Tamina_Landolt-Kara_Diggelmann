@@ -6,17 +6,39 @@
 5. styleguides einsetzen, seiten sollen unterschiedlich aussehen */
 
 body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: lightgoldenrodyellow;
 }
 
+.container1 {
+    display: grid;
+    margin-left: 500px;
+    margin-top: -250px;
+}
+
+.container2 {
+    display: grid;
+    margin-left: 920px;
+    margin-top: -154px;
+}
+
+.container3 {
+    margin-top: 100px;
+    margin-left: 120px;
+    display: grid;
+}
+
+.container4 {
+    display: grid;
+    margin-left: 120px;
+}
+
 img {
-    display: flex;
+    display: grid;
     border-radius: 15%;
     border-style:ridge;
-    background-image: linear-gradient(black, white);
     border-color:brown;
-    place-items: center;
-    justify-content: center;
+    margin-left: 25px;
 }
 
 h1 {
@@ -42,15 +64,11 @@ nav {
     margin: 15px;
     margin-right: 35%;
 }
-<<<<<<< HEAD
-=======
-
 img {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 p {
     border: 3px;
     color: black;
@@ -59,4 +77,3 @@ ul {
     border: 4px;
     color: black;
 }
->>>>>>> 72fa21147ee273b4900eed852eefe18e35986454
