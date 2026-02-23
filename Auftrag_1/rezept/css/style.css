@@ -4,16 +4,9 @@
 3. Hintergrundfarbe
 4. Abstände mit margin und padding
 5. styleguides einsetzen, seiten sollen unterschiedlich aussehen */
-body {
-    background-color: lightgoldenrodyellow;
 
-}
 
-img {
-    border-radius: 15%;
-    place-items: center;
-    justify-content: center;
-}
+
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -42,4 +35,13 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+p {
+    border: 3px;
+    color: black;
+}
+ul {
+    border: 4px;
+    color: black;
 }
