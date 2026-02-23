@@ -10,6 +10,7 @@ body {
 }
 
 img {
+    display: flex;
     border-radius: 15%;
     place-items: center;
     justify-content: center;
@@ -36,10 +37,4 @@ nav {
     background-color: bisque;
     margin: 15px;
     margin-right: 35%;
-}
-
-img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
