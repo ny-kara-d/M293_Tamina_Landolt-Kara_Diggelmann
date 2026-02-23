@@ -5,17 +5,19 @@
 4. Abstände mit margin und padding
 5. styleguides einsetzen, seiten sollen unterschiedlich aussehen */
 
+body {
+    background-color: lightgoldenrodyellow;
+}
 
-<<<<<<< HEAD
 img {
     display: flex;
     border-radius: 15%;
+    border-style:ridge;
+    background-image: linear-gradient(black, white);
+    border-color:brown;
     place-items: center;
     justify-content: center;
 }
-=======
-
->>>>>>> 72fa21147ee273b4900eed852eefe18e35986454
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -23,6 +25,7 @@ h1 {
     color: tomato;
     margin: 15px;
     outline: auto;
+    border-width: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,14 +42,6 @@ nav {
     margin: 15px;
     margin-right: 35%;
 }
-<<<<<<< HEAD
-=======
-
-img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 p {
     border: 3px;
@@ -56,4 +51,3 @@ ul {
     border: 4px;
     color: black;
 }
->>>>>>> 72fa21147ee273b4900eed852eefe18e35986454
