@@ -6,16 +6,12 @@
 5. styleguides einsetzen, seiten sollen unterschiedlich aussehen */
 
 
-<<<<<<< HEAD
 img {
     display: flex;
     border-radius: 15%;
     place-items: center;
     justify-content: center;
 }
-=======
-
->>>>>>> 72fa21147ee273b4900eed852eefe18e35986454
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -39,21 +35,3 @@ nav {
     margin: 15px;
     margin-right: 35%;
 }
-<<<<<<< HEAD
-=======
-
-img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-p {
-    border: 3px;
-    color: black;
-}
-ul {
-    border: 4px;
-    color: black;
-}
->>>>>>> 72fa21147ee273b4900eed852eefe18e35986454
