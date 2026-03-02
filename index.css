@@ -9,6 +9,7 @@ body {
 
 .mainBody {
     text-align: center;
+    font-size: 16px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 0 8.5%;
 }
@@ -41,54 +42,77 @@ body {
     color: black
 }
 
+.footnav {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: lightgray;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100px;
+}
+
+.footnav a {
+    margin-top: auto;
+    text-align: center;
+    color: darkslategrey;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
 .hr-text {
-  border: 0;
-  color:darkslategrey;
-  font-size: 14px;
-  height: 1px;
-  line-height: 1px;
-  position: relative;
-  text-align: center;
+    position: relative;
+    border: 0;
+    color:grey;
+    font-size: 14px;
+    height: 1px;
+    line-height: 1px;
+    position: relative;
+    text-align: center;
 }
 
 .hr-text::before {
     content: "";
-    background: darkslategray;
     position: absolute;
-    left: 0;
     top: 50%;
-    width: 100%;
-    height: 1px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: grey;
+    padding: 5px;
+    border-radius: 50%;
 }
 
-
-.fa {
-    display: flex;
-    padding-top: -15px;
-    padding-left: 10px;
-    padding-right: 10px;
-    height: 50px;
-    width: auto;
-    text-align: center;
-    text-decoration: none;
-    background-color: white;
+.hr-text::after {
+    background-color: #1a1a1a;
+    color: white;
+    content: attr(data-content);
+    line-height: 1.5em;
+    padding: 100%;
+    position: relative;
 }
 
-.fa:hover {
-    opacity: 0.7;
+.external-icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  object-fit: contain;
 }
-
-.fa-linkedin {
-    background: none;
-    color: grey;
+ 
+.icon-wrapper.three-icons {
+  padding: 0 20px;
+  display: flex;
+  gap: 15px;
+  background: white;
+  justify-content: center;
 }
-
-.fa-facebook {
-    background: none;
-    color: grey;
-}
-
-.fa-twitter {
-    background: none;
-    color: grey;
+ 
+.icon-wrapper.three-icons.with-background .external-icon,
+.icon-wrapper.three-icons.with-background i {
+  background: #f0f0f0;
+  align-self: center;
+  padding: 8px;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
 }
