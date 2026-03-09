@@ -78,11 +78,35 @@ li {
     scroll-snap-align: center;
 }
 
+h3 {
+    font-size: 24px;
+}
+
+p {
+    padding: none;
+}
+
+i {
+    font-size: small;
+}
+
 .articles {
     display: grid;
     width: 550px;
     justify-self: center;
     text-align: left;
+}
+
+.grids {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5px;
+}
+
+.videos {
+    display: grid;
+    justify-self: center;
+    height: auto;
 }
 /*
 .carousel h1 {
