@@ -25,6 +25,61 @@ body {
   justify-items: center;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+.carousel img {
+    height: 480px;
+    width: auto;
+    align-self: center;
+}
+
+body {
+    margin: 0;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.7rem;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+ul {
+    justify-self: center;
+    width: 800px;
+    height: 600px;
+    padding: 20px;
+    display: flex;
+    gap: 4vw;
+}
+
+li {
+    justify-items: center;
+    list-style-type: none;
+    padding: 10px;
+}
+
+ul {
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+
+ul::-webkit-scrollbar {
+    display: none;                
+}
+
+li {
+    scroll-snap-align: center;
+}
+
+
+/*
 .carousel h1 {
   text-align: center;
   font-size: 1.7rem;
@@ -53,15 +108,16 @@ body {
 }
 
 .carousel li {
-  list-style-type: none;
-  flex: 0 0 450px; 
-  justify-content: center;
-  height: 100%;
-  width: 450px;
-  padding: 20px;
-  margin: 0 10px;
+    scroll-snap-align: center;
+    list-style-type: none;
+    flex: 0 0 450px; 
+    justify-content: center;
+    height: 100%;
+    width: 450px;
+    padding: 20px;
+    margin: 0 10px;
 
-  text-align: center;
+    text-align: center;
 }
 
 .carousel li:nth-child(even) {
