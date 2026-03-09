@@ -92,13 +92,16 @@ i {
 
 .articles {
     display: grid;
-    width: 550px;
+    width: 830px;
     justify-self: center;
     text-align: left;
 }
 
 .grids {
     display: grid;
+    width: 550px;
+    justify-self: center;
+    text-align: center;
     grid-template-columns: auto auto;
     padding: 5px;
 }
