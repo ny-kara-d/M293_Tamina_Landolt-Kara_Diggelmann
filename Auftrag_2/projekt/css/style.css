@@ -78,7 +78,12 @@ li {
     scroll-snap-align: center;
 }
 
-
+.articles {
+    display: grid;
+    width: 550px;
+    justify-self: center;
+    text-align: left;
+}
 /*
 .carousel h1 {
   text-align: center;
