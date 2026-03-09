@@ -99,10 +99,9 @@ i {
 
 .grids {
     display: grid;
-    width: 550px;
-    justify-self: center;
-    text-align: center;
-    grid-template-columns: auto auto;
+    width: 500px;
+    justify-self: right;
+    grid-template-columns: auto;
     padding: 5px;
 }
 
